@@ -1,0 +1,8 @@
+com\nagarro\nagp\appium\pages\AnimationPage.class
+com\nagarro\nagp\appium\pages\HomePage.class
+com\nagarro\nagp\appium\utilitymethods\TestResultHandler.class
+com\nagarro\nagp\appium\pages\ListViewPage.class
+com\nagarro\nagp\appium\pages\PopUpPage.class
+com\nagarro\nagp\appium\utilitymethods\UtilityMethods.class
+com\nagarro\nagp\appium\baseClass\BaseClass.class
+com\nagarro\nagp\appium\pages\ViewFlowPage.class

@@ -1,0 +1,12 @@
+# Created on 2024-06-07T18:56:25.132
+INFO    | Ignore IPv6 address: c0f9:2428:702:0:30df:2428:702:0 (2x)
+
+# Created on 2024-06-07T18:56:25.132
+ERROR   | Running multiple emulators with the same AVD 
+
+# Created on 2024-06-07T18:56:25.132
+ERROR   | is an experimental feature.
+
+# Created on 2024-06-07T18:56:25.133
+ERROR   | Please use -read-only flag to enable this feature.
+

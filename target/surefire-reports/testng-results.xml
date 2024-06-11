@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-07T18:56:22 IST" name="Suite" finished-at="2024-06-07T18:57:14 IST" duration-ms="52111">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.CucumberTestNGRunner@1643d68f]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-06-07T18:56:22 IST" name="Test1" finished-at="2024-06-07T18:57:14 IST" duration-ms="52111">
+      <class name="cucumberOptions.CucumberTestNGRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:cucumberOptions.CucumberTestNGRunner@1643d68f]" started-at="2024-06-07T18:56:22 IST" name="setUpClass" finished-at="2024-06-07T18:56:22 IST" duration-ms="759" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@41d877bb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:cucumberOptions.CucumberTestNGRunner@1643d68f]" started-at="2024-06-07T18:56:22 IST" name="setUp" finished-at="2024-06-07T18:56:55 IST" duration-ms="32388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.CucumberTestNGRunner@1643d68f]" started-at="2024-06-07T18:56:55 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-07T18:57:12 IST" duration-ms="17141" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate that fade in animation page is displayed"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Animation sub menu feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:cucumberOptions.CucumberTestNGRunner@1643d68f]" started-at="2024-06-07T18:57:12 IST" name="tearDown" finished-at="2024-06-07T18:57:12 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:cucumberOptions.CucumberTestNGRunner@1643d68f]" started-at="2024-06-07T18:57:12 IST" name="tearDownClass" finished-at="2024-06-07T18:57:14 IST" duration-ms="1753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- cucumberOptions.CucumberTestNGRunner -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

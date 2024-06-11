@@ -1,0 +1,27 @@
+# Created on 2024-06-07T17:09:30.052
+INFO    | Ignore IPv6 address: d039:82c8:c001:0:401f:82c8:c001:0 (2x)
+
+# Created on 2024-06-07T17:09:30.053
+WARNING | FeatureControl is requesting a non existing feature.
+
+# Created on 2024-06-07T17:09:31.337
+WARNING | The emulator now requires a signed jwt token for gRPC access! Use the -grpc flag if you really want an open unprotected grpc port
+
+# Created on 2024-06-07T17:09:31.351
+WARNING | *** Basic token auth should only be used by android-studio ***
+
+# Created on 2024-06-07T17:09:34.772
+WARNING | UpdateCheck: Failure: SSL peer certificate or SSH remote key was not OK
+
+# Created on 2024-06-07T17:09:34.775
+WARNING | UpdateCheck: failed to get the latest version, skipping check (current version '34.2.13-11772612')
+
+# Created on 2024-06-07T17:12:29.519
+INFO    | Warning: 
+
+# Created on 2024-06-07T17:12:29.519
+ERROR   | Error reading vhal json
+
+# Created on 2024-06-07T17:12:29.681
+WARNING | UpdateCheck: Failure: SSL peer certificate or SSH remote key was not OK
+

@@ -1,0 +1,256 @@
+17:10:29.768 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that user can search a country from the list
+17:10:29.770 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+17:10:29.780 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+17:10:40.263 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+17:10:46.423 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is going to be clicked
+17:10:46.513 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button  clicked
+17:10:46.513 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+17:10:48.491 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+17:10:49.825 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+17:10:49.825 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+17:10:50.246 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+17:10:50.481 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+17:10:50.492 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :India
+17:10:51.643 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+17:10:51.712 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name India
+17:10:53.957 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name India is entered
+17:10:54.856 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered country India is same as expected
+17:10:55.606 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into closeApp method
+17:10:56.421 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click option button
+17:10:56.498 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - option button is clicked
+17:10:57.600 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click on exit button  
+17:10:58.379 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - exit  button is clicked
+17:10:58.386 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that user can search a country from the list
+17:10:58.866 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that user can search a country from the list
+17:10:58.867 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+17:10:58.867 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+17:11:03.530 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+17:11:10.052 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is going to be clicked
+17:11:10.126 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button  clicked
+17:11:10.126 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+17:11:11.326 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+17:11:12.551 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+17:11:12.552 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+17:11:12.885 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+17:11:13.138 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+17:11:13.141 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :Canada12
+17:11:14.252 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+17:11:14.314 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name Canada12
+17:11:16.016 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name Canada12 is entered
+17:12:17.793 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that user can search a country from the list
+18:34:41.142 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that fade in animation page is displayed
+18:34:41.145 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:34:41.155 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:34:51.727 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+18:34:58.267 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is going to be clicked
+18:34:58.401 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button  clicked
+18:34:58.401 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickAnimationSubMenu method
+18:34:59.857 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click animation sub menu button
+18:35:00.155 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isFadeInAnimationsListDisplayed method
+18:35:02.091 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - fade in animation button is displayed
+18:35:02.204 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click fade in animation button
+18:35:02.348 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that fade in animation page is displayed
+18:35:03.130 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that user can see all the view flow options on the app
+18:35:03.130 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:35:03.131 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:35:08.244 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+18:35:14.976 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is going to be clicked
+18:35:15.071 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button  clicked
+18:35:15.071 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickViewFlowSubMenu method
+18:35:15.071 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view flow sub menu button
+18:35:17.601 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked view flow ub menu button
+18:35:17.604 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAllViewFlowbtnDisplayed method
+18:35:17.732 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that user can see all the view flow options on the app
+18:35:18.511 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that application home page is displayed
+18:35:18.513 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:35:18.513 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:35:24.448 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isHomePageDisplayed method
+18:35:30.987 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - welcome text message is displayed
+18:35:31.077 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that application home page is displayed
+18:35:31.648 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that application can be closed
+18:35:31.649 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:35:31.649 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:35:36.207 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into closeApp method
+18:35:42.942 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click option button
+18:35:43.072 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - option button is clicked
+18:35:44.218 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click on exit button  
+18:35:45.049 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - exit  button is clicked
+18:35:45.051 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that application can be closed
+18:35:45.548 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that user can see PopUp menu item
+18:35:45.549 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:35:45.549 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:35:50.168 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+18:35:56.746 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is going to be clicked
+18:35:56.819 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button  clicked
+18:35:56.819 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+18:35:58.027 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+18:35:59.306 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+18:35:59.314 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+18:35:59.636 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Both popup options are displayed
+18:35:59.637 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectPopUpMenuOption method
+18:36:00.008 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on pop-up option button
+18:36:00.183 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked on pop-up option 
+18:36:01.608 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isMusicPlayerItemsDisplayed method
+18:36:02.705 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that user can see PopUp menu item
+18:36:03.427 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that user can search a country from the list
+18:36:03.428 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:36:03.428 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:36:08.203 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+18:36:14.775 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is going to be clicked
+18:36:14.863 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button  clicked
+18:36:14.863 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+18:36:16.338 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+18:36:17.583 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+18:36:17.583 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+18:36:18.087 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+18:36:18.229 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+18:36:18.232 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :India
+18:36:19.342 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+18:36:19.418 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name India
+18:36:21.513 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name India is entered
+18:36:22.426 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered country India is same as expected
+18:36:24.115 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into closeApp method
+18:36:24.267 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click option button
+18:36:24.453 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - option button is clicked
+18:36:25.594 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click on exit button  
+18:36:26.403 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - exit  button is clicked
+18:36:26.405 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that user can search a country from the list
+18:36:26.830 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that user can search a country from the list
+18:36:26.830 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:36:26.830 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:36:31.525 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+18:39:27.585 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that fade in animation page is displayed
+18:39:27.595 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:39:27.626 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:40:21.612 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+18:40:27.922 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is going to be clicked
+18:40:27.994 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button  clicked
+18:40:27.995 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickAnimationSubMenu method
+18:40:29.217 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click animation sub menu button
+18:40:30.499 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isFadeInAnimationsListDisplayed method
+18:40:31.012 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - fade in animation button is displayed
+18:40:31.112 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click fade in animation button
+18:40:31.239 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that fade in animation page is displayed
+18:40:32.008 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that user can see all the view flow options on the app
+18:40:32.012 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:40:32.013 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:40:37.915 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+18:40:44.437 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is going to be clicked
+18:40:44.530 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button  clicked
+18:40:44.531 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickViewFlowSubMenu method
+18:40:44.531 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view flow sub menu button
+18:40:46.656 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked view flow ub menu button
+18:40:46.657 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAllViewFlowbtnDisplayed method
+18:40:46.786 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that user can see all the view flow options on the app
+18:40:47.415 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that application home page is displayed
+18:40:47.416 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:40:47.416 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:40:53.026 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isHomePageDisplayed method
+18:40:59.586 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - welcome text message is displayed
+18:40:59.673 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that application home page is displayed
+18:41:00.300 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that application can be closed
+18:41:00.301 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:41:00.301 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:41:06.361 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into closeApp method
+18:41:13.075 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click option button
+18:41:13.232 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - option button is clicked
+18:41:14.455 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click on exit button  
+18:41:15.344 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - exit  button is clicked
+18:41:15.346 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that application can be closed
+18:41:15.960 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that user can see quickaction menu item
+18:41:15.961 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:41:15.961 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:41:21.422 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+18:41:28.014 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is going to be clicked
+18:41:28.100 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button  clicked
+18:41:28.100 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+18:41:29.331 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+18:41:30.589 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+18:41:30.594 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+18:41:31.057 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Both popup options are displayed
+18:41:31.059 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectQuickActionMenuOption method
+18:41:31.217 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked quick action
+18:41:32.302 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isBillaMenuItemDisplayed method
+18:41:32.594 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on bill QuickAction Option button
+18:41:33.791 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked on bill QuickAction Option button
+18:41:33.866 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that user can see quickaction menu item
+18:41:34.699 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that user can see PopUp menu item
+18:41:34.700 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:41:34.701 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:41:41.238 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+18:41:47.829 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is going to be clicked
+18:41:47.900 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button  clicked
+18:41:47.901 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+18:41:49.077 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+18:41:50.350 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+18:41:50.351 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+18:41:50.860 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Both popup options are displayed
+18:41:50.861 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectPopUpMenuOption method
+18:41:51.004 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on pop-up option button
+18:41:51.089 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked on pop-up option 
+18:41:52.263 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isMusicPlayerItemsDisplayed method
+18:41:53.363 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that user can see PopUp menu item
+18:41:54.128 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that user can search a country from the list
+18:41:54.128 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:41:54.128 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:42:00.695 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+18:42:07.189 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is going to be clicked
+18:42:07.253 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button  clicked
+18:42:07.254 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+18:42:08.492 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+18:42:09.820 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+18:42:09.820 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+18:42:10.334 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+18:42:10.487 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+18:42:10.490 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :India
+18:42:11.593 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+18:42:11.675 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name India
+18:42:14.255 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name India is entered
+18:42:15.181 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered country India is same as expected
+18:42:15.913 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into closeApp method
+18:42:16.762 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click option button
+18:42:16.850 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - option button is clicked
+18:42:18.002 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click on exit button  
+18:42:18.826 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - exit  button is clicked
+18:42:18.828 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that user can search a country from the list
+18:42:19.247 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that user can search a country from the list
+18:42:19.247 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:42:19.248 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:42:25.653 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+18:42:32.237 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is going to be clicked
+18:42:32.313 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button  clicked
+18:42:32.313 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+18:42:33.530 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+18:42:34.806 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+18:42:34.807 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+18:42:35.443 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+18:42:35.565 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+18:42:35.566 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :Canada12
+18:42:36.664 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+18:42:37.223 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name Canada12
+18:42:37.954 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name Canada12 is entered
+18:43:39.511 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that user can search a country from the list
+18:55:27.876 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that fade in animation page is displayed
+18:55:27.880 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:55:27.891 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:55:34.955 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+18:55:41.468 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is going to be clicked
+18:55:41.551 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button  clicked
+18:55:41.551 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickAnimationSubMenu method
+18:55:42.772 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click animation sub menu button
+18:55:44.054 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isFadeInAnimationsListDisplayed method
+18:55:44.630 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - fade in animation button is displayed
+18:55:44.721 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click fade in animation button
+18:55:44.855 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that fade in animation page is displayed
+18:56:55.459 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Starting scenario: To validate that fade in animation page is displayed
+18:56:55.464 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to set the desired capabilities on the server
+18:56:55.471 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium Driver initialized successfully
+18:57:01.970 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+18:57:08.452 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is going to be clicked
+18:57:08.558 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button  clicked
+18:57:08.559 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickAnimationSubMenu method
+18:57:09.739 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click animation sub menu button
+18:57:11.040 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isFadeInAnimationsListDisplayed method
+18:57:11.493 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - fade in animation button is displayed
+18:57:11.624 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click fade in animation button
+18:57:11.739 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Quitting the driver after scenario: To validate that fade in animation page is displayed

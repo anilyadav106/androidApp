@@ -1,0 +1,753 @@
+09:41:49.850 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+09:42:19.842 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+09:42:34.475 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+09:42:40.612 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+09:42:40.740 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickAnimationSubMenu method
+09:42:44.607 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click animation sub menu button
+09:42:46.515 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isFadeInAnimationsListDisplayed method
+09:42:47.541 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - fade in animation button is displayed
+09:42:47.757 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click fade in animation button
+09:42:49.164 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+09:42:52.706 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+09:43:01.973 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isHomePageDisplayed method
+09:43:08.665 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - welcome text message is displayed
+09:43:09.244 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+09:43:11.646 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+09:43:19.765 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into closeApp method
+09:43:26.381 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click option button
+09:43:26.490 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - option button is clicked
+09:43:27.671 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click on exit button  
+09:43:28.566 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - exit  button is clicked
+09:43:29.458 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+09:43:31.751 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+09:43:37.270 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+09:43:43.738 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+09:43:43.857 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+09:43:45.179 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+09:43:46.417 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+09:43:46.418 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+09:43:47.281 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+09:43:47.433 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+09:43:48.079 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :India
+09:43:48.978 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+09:43:49.174 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name India
+09:44:20.110 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+09:44:22.410 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+09:44:27.482 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+09:45:28.422 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+09:45:30.672 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+09:45:36.078 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+09:45:42.545 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+09:45:42.631 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+09:45:43.842 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+09:45:45.075 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+09:45:45.376 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+09:45:45.865 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Both popup options are displayed
+09:45:46.107 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectPopUpMenuOption method
+09:45:46.261 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on pop-up option button
+09:45:46.359 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked on pop-up option 
+09:45:46.672 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isMusicPlayerItemsDisplayed method
+10:01:58.184 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:02:00.995 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:02:00.995 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:02:03.305 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:02:03.308 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:02:08.480 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:02:14.956 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+10:02:15.033 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickAnimationSubMenu method
+10:02:16.209 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click animation sub menu button
+10:02:17.835 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isFadeInAnimationsListDisplayed method
+10:02:18.252 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - fade in animation button is displayed
+10:02:18.336 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click fade in animation button
+10:02:18.729 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:02:18.736 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:02:18.736 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:02:21.034 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:02:21.034 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:02:25.358 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isHomePageDisplayed method
+10:02:31.849 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - welcome text message is displayed
+10:02:32.232 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:02:32.236 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:02:32.237 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:02:34.570 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:02:34.570 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:02:39.089 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into closeApp method
+10:02:45.728 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click option button
+10:02:45.837 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - option button is clicked
+10:02:46.936 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click on exit button  
+10:02:47.747 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - exit  button is clicked
+10:02:48.601 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:02:48.608 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:02:48.608 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:02:50.913 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:02:50.913 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:02:55.681 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:03:02.116 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+10:03:02.193 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+10:03:03.391 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+10:03:04.638 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+10:03:04.638 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+10:03:05.066 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+10:03:05.238 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+10:03:05.545 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :India
+10:03:06.368 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+10:03:06.431 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name India
+10:03:08.826 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name India is entered
+10:03:09.804 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered country India is same as expected
+10:03:10.055 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:03:10.061 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:03:10.061 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:03:12.394 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:03:12.394 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:03:17.206 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:03:23.506 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+10:03:23.576 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+10:03:24.776 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+10:03:26.031 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+10:03:26.472 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+10:03:27.470 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Both popup options are displayed
+10:03:27.984 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectQuickActionMenuOption method
+10:03:28.291 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on quick action option
+10:03:28.452 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked quick action
+10:03:29.038 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isBillaMenuItemDisplayed method
+10:03:30.314 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on bill QuickAction Option button
+10:03:31.523 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked on bill QuickAction Option button
+10:03:32.199 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:03:32.207 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:03:32.207 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:03:34.727 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:03:34.728 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:03:41.344 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:03:47.800 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+10:03:47.865 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+10:03:49.040 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+10:03:50.258 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+10:03:50.499 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+10:03:50.942 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Both popup options are displayed
+10:03:51.150 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectPopUpMenuOption method
+10:03:51.292 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on pop-up option button
+10:03:51.382 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked on pop-up option 
+10:03:51.631 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isMusicPlayerItemsDisplayed method
+10:14:58.607 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:14:58.609 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:14:58.609 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:15:00.932 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:15:00.942 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:15:07.434 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:15:13.712 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+10:15:13.779 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickAnimationSubMenu method
+10:15:14.965 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click animation sub menu button
+10:15:16.466 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isFadeInAnimationsListDisplayed method
+10:15:16.860 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - fade in animation button is displayed
+10:15:16.927 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click fade in animation button
+10:15:22.324 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:15:22.324 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:15:22.324 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:15:24.618 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:15:24.619 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:15:29.819 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isHomePageDisplayed method
+10:15:36.327 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - welcome text message is displayed
+10:15:41.767 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:15:41.767 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:15:41.767 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:15:44.065 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:15:44.065 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:15:49.342 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into closeApp method
+10:15:55.871 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click option button
+10:15:55.978 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - option button is clicked
+10:15:57.109 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click on exit button  
+10:15:57.967 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - exit  button is clicked
+10:16:03.773 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:16:03.773 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:16:03.773 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:16:06.026 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:16:06.026 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:16:11.120 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:16:17.606 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+10:16:17.678 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+10:16:18.855 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+10:16:20.079 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+10:16:20.079 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+10:16:20.403 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+10:16:20.681 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+10:16:20.921 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :India
+10:16:21.743 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+10:16:21.802 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name India
+10:16:23.488 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name India is entered
+10:16:24.493 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered country India is same as expected
+10:16:29.752 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:16:29.753 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:16:29.753 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:16:32.037 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:16:32.037 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:16:37.226 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:16:43.794 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+10:16:43.869 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+10:16:45.180 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+10:16:46.375 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+10:16:46.375 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+10:16:46.848 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+10:16:47.024 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+10:16:47.324 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :Austria
+10:16:48.090 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+10:16:48.151 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name Austria
+10:16:49.823 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name Austria is entered
+10:16:50.793 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered country Austria is same as expected
+10:16:56.083 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:16:56.084 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:16:56.084 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:16:58.373 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:16:58.374 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:17:03.680 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:17:19.850 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:17:19.850 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:17:19.850 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:17:22.110 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:17:22.110 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:18:05.684 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:18:05.687 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:18:05.687 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:18:08.029 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:18:08.041 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:18:34.382 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:18:34.382 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:18:34.382 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:18:36.697 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:18:36.698 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:20:08.173 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:20:08.176 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:20:08.176 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:20:38.198 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:20:38.217 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:24:49.327 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:24:49.329 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:24:49.329 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:25:19.346 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:25:19.357 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:25:30.846 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:25:36.919 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+10:25:37.078 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickAnimationSubMenu method
+10:25:38.620 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click animation sub menu button
+10:25:40.480 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isFadeInAnimationsListDisplayed method
+10:25:40.996 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - fade in animation button is displayed
+10:25:41.114 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click fade in animation button
+10:25:41.787 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:25:41.787 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:25:41.787 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:25:44.285 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:25:44.285 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:25:49.793 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isHomePageDisplayed method
+10:25:56.250 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - welcome text message is displayed
+10:25:56.620 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:25:56.621 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:25:56.621 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:25:58.896 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:25:58.896 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:26:04.090 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into closeApp method
+10:26:10.712 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click option button
+10:26:10.818 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - option button is clicked
+10:26:11.923 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click on exit button  
+10:26:12.749 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - exit  button is clicked
+10:26:13.535 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:26:13.535 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:26:13.535 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:26:15.798 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:26:15.798 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:26:20.924 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:26:27.355 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+10:26:27.451 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+10:26:29.502 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+10:26:30.889 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+10:26:30.889 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+10:26:31.577 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+10:26:31.779 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+10:26:32.483 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :India
+10:26:33.531 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+10:26:33.712 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name India
+10:26:36.277 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name India is entered
+10:26:37.559 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered country India is same as expected
+10:26:38.077 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:26:38.077 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:26:38.077 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:26:40.500 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:26:40.501 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:26:46.544 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:26:53.011 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+10:26:53.089 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+10:26:54.326 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+10:26:55.591 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+10:26:55.591 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+10:26:55.992 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+10:26:56.279 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+10:26:56.605 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :Austria
+10:28:28.018 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:28:28.018 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:28:28.018 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:28:30.400 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:28:30.400 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:28:35.399 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:28:41.938 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+10:28:42.012 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+10:28:43.198 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+10:28:44.431 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+10:28:44.696 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+10:28:45.241 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Both popup options are displayed
+10:28:45.499 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectQuickActionMenuOption method
+10:28:45.626 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on quick action option
+10:28:45.715 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked quick action
+10:28:45.949 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isBillaMenuItemDisplayed method
+10:28:46.866 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on bill QuickAction Option button
+10:28:48.012 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked on bill QuickAction Option button
+10:28:48.354 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:28:48.354 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:28:48.354 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:28:50.667 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:28:50.667 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:28:55.943 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:29:02.410 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+10:29:02.480 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+10:29:03.741 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+10:29:04.959 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+10:29:05.197 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+10:29:05.679 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Both popup options are displayed
+10:29:05.876 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectPopUpMenuOption method
+10:29:06.034 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on pop-up option button
+10:29:06.129 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked on pop-up option 
+10:29:06.401 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isMusicPlayerItemsDisplayed method
+10:31:09.058 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:31:09.061 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:31:09.061 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:31:09.061 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:31:09.066 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:31:15.743 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:31:21.950 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+10:31:22.037 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickAnimationSubMenu method
+10:31:23.191 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click animation sub menu button
+10:31:24.819 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isFadeInAnimationsListDisplayed method
+10:31:25.257 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - fade in animation button is displayed
+10:31:25.337 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click fade in animation button
+10:31:25.718 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:31:25.718 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:31:25.718 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:31:25.718 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:31:25.718 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:31:31.328 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isHomePageDisplayed method
+10:31:37.975 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - welcome text message is displayed
+10:31:38.518 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:31:38.518 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:31:38.518 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:31:38.518 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:31:38.518 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:31:45.791 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into closeApp method
+10:31:52.444 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click option button
+10:31:52.567 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - option button is clicked
+10:31:53.791 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click on exit button  
+10:31:54.630 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - exit  button is clicked
+10:31:55.621 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:31:55.621 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:31:55.621 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:31:55.621 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:31:55.621 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:32:01.976 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:32:08.422 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+10:32:08.498 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+10:32:09.728 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+10:32:11.037 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+10:32:11.038 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+10:32:11.571 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+10:32:11.725 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+10:32:12.087 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :India
+10:32:13.361 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+10:32:13.946 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name India
+10:32:14.669 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name India is entered
+10:32:15.777 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered country India is same as expected
+10:32:16.191 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:32:16.193 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:32:16.193 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:32:16.193 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:32:16.193 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:32:22.025 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:33:23.037 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:33:23.037 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:33:23.037 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:33:23.037 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:33:23.038 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:33:28.407 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:33:34.975 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+10:33:35.043 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+10:33:36.216 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+10:33:37.445 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+10:33:37.687 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+10:33:38.179 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Both popup options are displayed
+10:33:38.391 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectQuickActionMenuOption method
+10:33:38.539 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on quick action option
+10:33:38.628 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked quick action
+10:33:38.887 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isBillaMenuItemDisplayed method
+10:33:39.814 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on bill QuickAction Option button
+10:33:40.927 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked on bill QuickAction Option button
+10:33:41.423 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - starting the appium server
+10:33:41.423 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Appium server is started
+10:33:41.423 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - launching the emulator
+10:33:41.423 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully
+10:33:41.424 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:33:49.239 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:33:55.658 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+10:33:55.738 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+10:33:56.960 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+10:33:58.156 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+10:33:58.413 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+10:33:59.024 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Both popup options are displayed
+10:33:59.352 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectPopUpMenuOption method
+10:33:59.607 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on pop-up option button
+10:33:59.738 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked on pop-up option 
+10:34:00.340 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isMusicPlayerItemsDisplayed method
+10:34:50.675 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:35:00.476 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+10:35:12.216 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:35:51.666 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:36:30.956 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:40:25.822 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:40:46.889 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:41:07.057 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:41:27.221 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:41:48.480 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:42:09.020 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:54:51.186 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:54:55.557 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:54:55.795 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:54:55.913 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:54:56.196 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+10:54:56.316 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:03:37.051 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:03:51.701 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:03:57.677 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:03:57.840 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickAnimationSubMenu method
+11:03:59.857 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click animation sub menu button
+11:04:02.397 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isFadeInAnimationsListDisplayed method
+11:04:02.865 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - fade in animation button is displayed
+11:04:02.995 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click fade in animation button
+11:04:03.912 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:04:12.028 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isHomePageDisplayed method
+11:04:18.495 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - welcome text message is displayed
+11:04:19.149 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:04:25.587 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into closeApp method
+11:04:32.272 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click option button
+11:04:32.469 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - option button is clicked
+11:04:33.851 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click on exit button  
+11:04:34.767 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - exit  button is clicked
+11:04:36.202 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:04:45.795 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:04:52.256 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:04:52.354 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+11:04:53.962 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+11:04:55.371 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+11:04:55.371 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+11:04:56.043 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+11:04:56.249 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+11:04:56.989 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :India
+11:04:57.881 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+11:04:58.101 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name India
+11:04:59.995 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name India is entered
+11:05:01.300 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered country India is same as expected
+11:05:01.925 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:05:10.174 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:05:16.788 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:05:16.950 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+11:06:52.317 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:06:57.163 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:07:03.905 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:07:04.086 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+11:07:06.008 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+11:07:07.429 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+11:07:07.855 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+11:07:08.572 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Both popup options are displayed
+11:07:09.076 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectPopUpMenuOption method
+11:07:09.395 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on pop-up option button
+11:07:09.577 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked on pop-up option 
+11:07:10.391 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isMusicPlayerItemsDisplayed method
+11:10:30.453 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:10:42.124 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:10:47.638 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:10:47.738 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickAnimationSubMenu method
+11:10:49.496 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click animation sub menu button
+11:10:51.490 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isFadeInAnimationsListDisplayed method
+11:10:51.835 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - fade in animation button is displayed
+11:10:51.941 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click fade in animation button
+11:10:52.700 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:10:59.580 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isHomePageDisplayed method
+11:11:06.050 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - welcome text message is displayed
+11:11:06.419 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:11:12.343 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into closeApp method
+11:11:18.908 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click option button
+11:11:19.013 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - option button is clicked
+11:11:20.154 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click on exit button  
+11:11:21.014 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - exit  button is clicked
+11:11:22.322 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:11:28.619 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:11:35.256 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:11:35.464 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+11:11:37.409 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+11:11:38.807 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+11:11:38.807 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+11:11:39.361 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+11:11:39.524 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+11:11:40.182 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :India
+11:11:41.280 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+11:11:41.885 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name India
+11:11:42.562 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name India is entered
+11:11:43.518 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered country India is same as expected
+11:11:43.762 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:11:49.772 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:12:50.669 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:12:55.534 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:13:02.086 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:13:02.145 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+11:13:03.285 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+11:13:04.552 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+11:13:04.745 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+11:13:05.232 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Both popup options are displayed
+11:13:05.417 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectPopUpMenuOption method
+11:13:05.559 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on pop-up option button
+11:13:05.646 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked on pop-up option 
+11:13:05.932 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isMusicPlayerItemsDisplayed method
+11:16:15.348 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:21:18.004 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:21:36.708 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:21:42.761 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:21:42.860 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickAnimationSubMenu method
+11:21:44.649 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click animation sub menu button
+11:21:46.420 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isFadeInAnimationsListDisplayed method
+11:21:46.817 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - fade in animation button is displayed
+11:21:46.922 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click fade in animation button
+11:21:47.814 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:21:54.806 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isHomePageDisplayed method
+11:22:01.633 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - welcome text message is displayed
+11:22:02.230 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:22:09.713 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into closeApp method
+11:22:16.359 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click option button
+11:22:16.544 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - option button is clicked
+11:22:17.719 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click on exit button  
+11:22:18.705 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - exit  button is clicked
+11:22:20.161 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:22:26.578 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:22:33.110 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:22:33.224 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+11:22:34.787 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+11:22:36.225 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+11:22:36.225 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+11:22:37.027 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+11:22:37.239 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+11:22:38.327 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :India
+11:22:39.084 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+11:22:39.183 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name India
+11:22:42.290 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name India is entered
+11:22:43.023 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered country India is same as expected
+11:22:43.412 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:22:51.988 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:22:58.462 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:22:58.612 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+11:23:00.496 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+11:23:03.000 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+11:23:04.734 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+11:24:36.141 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:24:41.114 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:24:47.678 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:24:47.752 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+11:24:48.909 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+11:24:50.129 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+11:24:50.324 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+11:24:50.826 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Both popup options are displayed
+11:24:51.081 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectPopUpMenuOption method
+11:24:51.215 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on pop-up option button
+11:24:51.315 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked on pop-up option 
+11:24:51.553 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isMusicPlayerItemsDisplayed method
+11:34:21.601 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:34:43.360 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:39:02.623 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:39:11.487 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:40:28.752 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:40:39.581 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:40:45.860 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:40:45.999 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+11:40:47.891 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+11:40:49.312 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+11:40:49.721 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+11:40:50.373 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Both popup options are displayed
+11:40:50.748 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectQuickActionMenuOption method
+11:40:51.002 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on quick action option
+11:40:51.138 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked quick action
+11:40:51.609 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isBillaMenuItemDisplayed method
+11:40:52.522 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on bill QuickAction Option button
+11:40:53.727 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked on bill QuickAction Option button
+11:40:54.738 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:41:02.336 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:41:08.857 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:41:08.985 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+11:41:10.635 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+11:41:12.066 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+11:41:12.430 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+11:41:13.052 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Both popup options are displayed
+11:41:13.429 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectPopUpMenuOption method
+11:41:13.676 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on pop-up option button
+11:41:13.861 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked on pop-up option 
+11:41:14.476 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isMusicPlayerItemsDisplayed method
+11:42:52.689 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:43:11.344 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:43:17.649 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:43:17.828 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+11:43:20.764 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+11:43:22.585 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+11:43:22.585 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+11:43:24.249 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+11:43:24.601 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+11:43:25.774 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :India
+11:43:26.543 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+11:43:26.707 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name India
+11:43:28.565 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name India is entered
+11:43:30.499 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered country India is same as expected
+11:43:31.347 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:43:40.808 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:43:47.336 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:43:47.522 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+11:43:49.779 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+11:43:51.239 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+11:43:51.239 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+11:43:52.331 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+11:43:52.636 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+11:43:53.606 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :Austria
+11:43:54.431 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+11:43:54.653 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name Austria
+11:43:57.149 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name Austria is entered
+11:43:58.244 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered country Austria is same as expected
+11:43:58.863 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:44:07.789 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:44:14.201 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:44:14.316 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+11:44:16.353 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+11:44:17.778 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+11:44:17.778 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+11:44:18.562 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+11:44:18.764 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+11:44:19.307 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :Canada
+11:44:20.426 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+11:44:20.531 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name Canada
+11:44:22.318 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name Canada is entered
+11:44:23.303 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered country Canada is same as expected
+11:47:14.197 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:47:22.582 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:47:28.870 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:47:28.952 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickViewFlowSubMenu method
+11:47:30.328 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view flow sub menu button
+11:47:31.729 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked view flow ub menu button
+11:48:41.286 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:48:53.047 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:48:59.242 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:48:59.328 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickViewFlowSubMenu method
+11:49:01.446 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view flow sub menu button
+11:49:02.840 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked view flow ub menu button
+11:53:21.313 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:53:37.227 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:53:43.615 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:53:43.803 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickAnimationSubMenu method
+11:53:46.415 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click animation sub menu button
+11:53:48.903 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isFadeInAnimationsListDisplayed method
+11:53:49.726 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - fade in animation button is displayed
+11:53:49.945 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click fade in animation button
+11:53:51.613 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:54:00.872 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isHomePageDisplayed method
+11:54:07.645 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - welcome text message is displayed
+11:54:08.603 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:54:20.428 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into closeApp method
+11:54:27.348 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click option button
+11:54:27.624 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - option button is clicked
+11:54:29.182 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click on exit button  
+11:54:30.308 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - exit  button is clicked
+11:54:32.820 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:54:43.020 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:54:49.627 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:54:49.814 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+11:54:55.046 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:55:03.431 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:56:04.245 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:56:09.166 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:56:15.721 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:56:15.889 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickListViewSubMenu method
+11:56:17.811 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view sub menu button
+11:56:19.276 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked list view sub menu button
+11:56:19.276 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isSearchableListViewDisplayed method
+11:56:20.104 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to click searchable list view button
+11:56:20.334 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass -  searchable list view button is clicked
+11:56:21.063 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isAbleToSearchCountry method for :Canada
+11:56:21.897 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click search country button
+11:56:22.134 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - going to enter country name Canada
+11:56:24.393 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - country name Canada is entered
+11:56:25.370 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered country Canada is same as expected
+11:56:25.779 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:56:33.966 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:56:40.644 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:56:40.745 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickPopUpSubMenu method
+11:56:42.157 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click pop-up sub menu button
+11:56:43.666 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - popup menu option is clicked
+11:56:44.053 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isPopUpOptionsDisplayed method
+11:56:44.601 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Both popup options are displayed
+11:56:45.104 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectQuickActionMenuOption method
+11:56:45.490 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on quick action option
+11:56:45.650 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked quick action
+11:56:46.271 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isBillaMenuItemDisplayed method
+11:56:47.443 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click on bill QuickAction Option button
+11:56:48.621 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked on bill QuickAction Option button
+11:56:49.447 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:56:59.125 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:58:00.350 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:58:07.277 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:58:13.772 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:58:13.898 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickViewFlowSubMenu method
+11:58:15.697 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click list view flow sub menu button
+11:58:17.129 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - clicked view flow ub menu button
+11:59:33.806 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+11:59:42.704 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+11:59:48.917 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+11:59:48.992 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickAnimationSubMenu method
+11:59:50.318 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click animation sub menu button
+11:59:52.492 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isFadeInAnimationsListDisplayed method
+11:59:53.026 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - fade in animation button is displayed
+11:59:53.207 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click fade in animation button
+11:59:54.148 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:00:02.456 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isHomePageDisplayed method
+12:00:13.365 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:02:14.943 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:02:18.227 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:02:18.478 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:02:18.851 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:02:19.162 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:02:19.367 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:02:19.574 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:05:52.435 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:06:07.164 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into selectAndroidUIDesign method
+12:06:13.373 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - androidUiDesignBtn button is clicked
+12:06:13.537 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into clickAnimationSubMenu method
+12:06:15.819 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Going to click animation sub menu button
+12:06:18.003 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:06:28.061 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Entered into isHomePageDisplayed method
+12:09:10.364 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:10:38.969 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:11:03.195 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:11:23.491 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:12:47.204 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:12:51.240 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:12:51.448 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:12:51.589 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:12:51.683 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:12:51.769 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:12:51.898 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:14:46.937 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:15:10.133 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:16:37.366 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:17:03.052 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:17:23.464 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:17:44.114 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:18:05.304 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:18:25.497 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:18:45.935 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+12:24:19.516 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities
+13:02:39.912 [main] INFO  com.nagarro.nagp.appium.baseClass.BaseClass - Emulator is launched successfully with the given capabilities

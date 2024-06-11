@@ -1,0 +1,12 @@
+# Created on 2024-06-07T18:54:57.572
+INFO    | Ignore IPv6 address: 80e9:2e18:fa01:0:f0ce:2e18:fa01:0 (2x)
+
+# Created on 2024-06-07T18:54:57.573
+ERROR   | Running multiple emulators with the same AVD 
+
+# Created on 2024-06-07T18:54:57.574
+ERROR   | is an experimental feature.
+
+# Created on 2024-06-07T18:54:57.575
+ERROR   | Please use -read-only flag to enable this feature.
+
